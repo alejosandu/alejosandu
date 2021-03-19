@@ -8,6 +8,10 @@
 - 😎 React Developer
 - 🍕 Flutter lover!
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejosandu&count_private=true&show_icons=true&border_radius=30&title_color=00bfff&&icon_color=00bfff)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejosandu&layout=compact&count_private=true&border_radius=30&title_color=00bfff&&icon_color=00bfff)
+
 <!--
 **alejosandu/alejosandu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
