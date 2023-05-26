@@ -1,8 +1,5 @@
 ## Programmer 🤩, musician 🎸 and enthusiast for try and experiment new things on languages i already know!
 
-
-![image](https://user-images.githubusercontent.com/11350847/111727219-78226c00-8838-11eb-92e5-19ccf4fcbc6d.png)
-
 - 🤓 Currently learning NextJs
 - 📖 Practicing a bit of typescript
 - 😎 React Developer
